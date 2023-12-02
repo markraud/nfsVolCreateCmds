@@ -1,0 +1,5 @@
+snapPolicy1
+snapPolicy2
+snapPolicy3
+default
+none
